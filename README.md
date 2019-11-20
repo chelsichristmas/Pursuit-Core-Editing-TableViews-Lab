@@ -1,4 +1,4 @@
-# Pursuit-Core-Editing-TableViews-Lab
+## Pursuit-Core-Editing-TableViews-Lab
 
 ## Grocery List
 
